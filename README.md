@@ -5,7 +5,6 @@ Team: Malak kharbech & Ahmed Kouki  Python 3 (standard library only, no installa
 ## Run
     python main.py --demo     # first run with sample data
     python main.py            # normal run (data kept in data/library.db)
-    python -m unittest discover -s tests -v    # run the 11 automated tests
 
 ## Structure
     main.py                 entry point
